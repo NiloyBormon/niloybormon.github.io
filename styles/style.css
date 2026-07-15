@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+.nav-bar {
+    height:60px;
+    width: 100vw;
+    background-color: rgb(104, 83, 169);
+}
+.nav-bar > a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
